@@ -1,0 +1,9 @@
+{
+  "id": "Quaaloops_LoopFi",
+  "name": "Quaaloops (LoopFi)",
+  "description": "Provide Liquidity for lpETH:ETH on Balancer and earn 10x points",
+  "value": "10", 
+  "url": "https://www.loopfi.xyz",
+  "file": "Quaaloops_LoopFi.json",
+  "fileIcon": "Quaaloops.jpg" 
+}
