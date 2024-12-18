@@ -4,5 +4,13 @@
       "name": "Steakhouse/Coinshift Boosted",
       "description": "This boosted pool's underlying mechanics are powered by wrapped Steakhouse and Coinshift tokens, which generate yield from lending activities on Morpho."
     }
-  }
+  } 
+}
+{
+  "1": {
+    "0xdCb5ED405a9b11250deF047AE8016008Fae7D69b": {
+      "name": "lpETH Vortex",
+      "description": "lpETH is a liquid lending recipt token, collateralised by leveraged restaking strategies powered by LoopFi.xyz."
+    }
+  } 
 }
