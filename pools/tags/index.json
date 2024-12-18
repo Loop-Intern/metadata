@@ -236,5 +236,15 @@
             "0x1399d2b825c927409ccd77e86447c40e378dc580000100000000000000000cb3",
             "0x0f50e8598ba3d37150bd4cbc6138a20ac9bb03110001000000000000000005b9"
         ]
+     },
+     {
+        "id": "points_loopfi",
+        "name": "LoopFi Pool Points Party",
+        "description": "The Pool Points Party incentivizes users to lock ETH and leading LRTs into the protocol, for lending, leveraged farming and liquidity. In exchange, users earn points (Quaaloops). These points are distributed hourly across all depositors.",
+        "url": "https://docs.loopfi.xyz/the-launch/the-points-program",
+        "icon": "loopfi.png",
+        "pools": [
+            "0xdcb5ed405a9b11250def047ae8016008fae7d69b0000000000000000000006d8"
+        ]
      }
 ]
